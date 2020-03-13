@@ -1,0 +1,7 @@
+6
+445,D,jet,100,siemens
+12,D,ink,100,dell
+3321,N,ciss,200,saimon
+442,N,ciss,150,dell
+332,N,jet,200,brother
+331,D,ink,100,brother

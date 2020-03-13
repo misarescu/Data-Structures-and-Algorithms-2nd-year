@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542291701 source:d:\work\important work\poli stuff\pa\testlab7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539881336 source:d:\work\important work\poli stuff\pa\temalab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+Maria, 2005, 120, Comedie, Pixar, Pixar
+Coco, 2017, 130, Animatie, BBC, Pixar
+Baab, 2018, 140, Documentar, Pixar, Sony
+Terminator, 2020, 150, Smecher, Cixar, Arnold
+Macarena, 2003, 160, Comedie, Cixar, Spania
+Freddy_Mercury, 2018, 170, Documentar, BBC, Legende
+Macaraua, 1450, 4000, Muie, Cixar, Pula
